@@ -1,1 +1,5 @@
-# ReadMe
+Hi, I’m Ahmed and welcome to my Github Profile. I’m currently a project/product manager at a tech startup, I’ve been working in tech for about 3 years. I also worked as a software developer previously. I’m interested in a digital marketing role as it reflects my own passion which is impacting people and making their lives better through carefully designed products and services.
+
+In my current role, my responsibility is to make sure our product is highly relevant to the user and make an impact for them. I also am the facilitator between my team and the stakeholders where I receive the business requirements and communicate them to the development team. I am a strong communicator with a sense of leadership and creativity as well as an eye for the little details. I utilized these skills to help my team build a new version of our app which ended up doubling our user base, I am also taking a Nano-degree in cloud development and trying to take my user-centric approach to development in the cloud.
+
+I am inspired to make an impact on organizations and individuals by taking my user-centric approach to digital marketing and development in the cloud.
